@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [README](README.md)
 * [AWS Fundamentals](AWS Fundamentals/root.md)
